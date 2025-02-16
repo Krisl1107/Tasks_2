@@ -1,0 +1,2 @@
+meters=int(input())
+print(round(meters*0.000621371))
